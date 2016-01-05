@@ -1,0 +1,3 @@
+python aggregate.py --fields='CO2_chen*1.00269075,CH4_chen*0.99606746,H2O' AJAX_Flt178_15Dec2015_B.csv *.dat > AJAX_GHG_F178_10pnts_151215_sharedata_jmr.csv
+
+python aggregate.py --fields=CavityPressure,CavityTemp,AmbientPressure AJAX_Flt178_15Dec2015_B.csv *.dat > AJAX_GHG_F178_10pnts_151215_sharedata_jmr_cavity.csv
