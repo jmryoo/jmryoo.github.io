@@ -90,7 +90,7 @@ div.menu-item {
 }
 
 div#toptitle {
-	padding-bottom: 0.2em;
+	padding-bottom: 1.7em;
 	margin-bottom: 1.5em;
 	border-bottom: 3px double gray;
 }
@@ -103,7 +103,7 @@ div#toptitle + h2, div#toptitle + h3 {
 div#subtitle {
 	margin-top: 0.0em;
 	margin-bottom: 0.0em;
-	padding-top: 0em;
+	padding-top: 1em;
 	padding-bottom: 0.1em;
 }
 
