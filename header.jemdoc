@@ -1,4 +1,9 @@
 =Ju-Mee Ryoo, Ph.D.
+
+~~~
+[https://sites.google.com/view/jumeeryoo/ Please visit my new page.]
+~~~
+
 {{<table id="headertbl"><tr>
   <td id="headerphoto">
     <img src="files/Ryoo_photo.jpg">
@@ -7,7 +12,7 @@
    Research Scientist<br/>
    Science and Technology Corporation<br/>
    NASA Ames Research Center <br/>
-    <a href="https://www.nasa.gov/centers/ames/earthscience/members/atmosphericscience/ju-mee_ryoo_bio">https://www.nasa.gov/centers/ames/earthscience/members/atmosphericscience/ju-mee_ryoo_bio</a><br/>
+    <a href="https://www.nasa.gov/centers/ames/earthscience/members/atmosphericscience/ju-mee_ryoo_bio">NASA Ames Biography</a><br/>
     <div id="headeritem"><b> Contact :</b>
     <div id="headerindent">
      ju-mee.ryoo<b><!--nospamplz--></b>@<b><!--nospamplz--></b>nasa.gov<br> 
@@ -23,7 +28,7 @@
     </div>
     </div>
     <div id="headeritem">
-      <b> Curriculum Vitae:</b> <a href="files/CV_Ryoo.pdf" target="blank">pdf</a> 
+      <b> Curriculum Vitae:</b> <a href="files/CV_Ju-Mee_Ryoo.pdf" target="blank">pdf</a> 
     </div>
   </td>
 </tr> </table> }}
